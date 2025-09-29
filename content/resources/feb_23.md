@@ -5,6 +5,8 @@ description: Prepared for the Studies in Comparative International Development s
 file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/6abbf46af5454917bd83147807cf2645_feb_23.pdf
 file_size: 228529
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

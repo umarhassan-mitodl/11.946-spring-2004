@@ -4,6 +4,8 @@ description: Response 8.
 file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/0763ceb2b060e24e721a58ebd63ee81e_week9_macgregor.pdf
 file_size: 72626
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
