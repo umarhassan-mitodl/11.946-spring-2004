@@ -3,8 +3,6 @@ content_type: page
 description: This section provides discussion questions corresponding to the readings
   for the course. The student writes a response to each class session's discussion
   questions listed in the course syllabus. Some student examples are provided.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
